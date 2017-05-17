@@ -18,11 +18,11 @@ Este proyecto tiene como reto utilizar los componentes del Framework Bootstrap, 
 ### Layout de dos columnas.
 La distribución de contenido se verá a través de dos columnas 
 
-![Layout](assets/image/layout.jpg)
+![Layout](assets/image/layout.JPG)
 
 ### Componente Boostrap Nav
 Utilizamos el componente Nav-tabs para realizar la separación del contenido correspondiente a Detalles del producto, Envío y Pago y Garantías del Vendedor
 
-![Componente nav-tab](assets/image/navtab.jpg)
+![Componente nav-tab](assets/image/navtab.JPG)
 
 ## Autor: Lourdes Vílchez.
